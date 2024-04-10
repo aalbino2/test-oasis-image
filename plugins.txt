@@ -4,4 +4,5 @@ git+https://github.com/FAIRmat-NFDI/nomad-analysis.git@6432f6c19d3d07a7597eb9c63
 git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513fd469eb4d9c0aa88e59180188ac9ba4db#subdirectory=IKZ_plugin
 git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513fd469eb4d9c0aa88e59180188ac9ba4db#subdirectory=Lakeshore_plugin
 git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513fd469eb4d9c0aa88e59180188ac9ba4db#subdirectory=RTG_SIMS
+git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513fd469eb4d9c0aa88e59180188ac9ba4db#subdirectory=LayTec_EpiTT_plugin
 statsmodels
