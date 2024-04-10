@@ -6,4 +6,4 @@ git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513f
 git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513fd469eb4d9c0aa88e59180188ac9ba4db#subdirectory=RTG_SIMS
 git+https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git@0d0e513fd469eb4d9c0aa88e59180188ac9ba4db#subdirectory=transmission/transmission_plugin/uv_vis_nir_transmission_plugin
 statsmodels
-typing-extensions
+
